@@ -23,7 +23,7 @@ class EnrollmentController extends Controller
         ]);
 
         return redirect()->route('courses.show', $course)
-                        ->with('success', 'Вы успешно записались на курс!');
+                        ->with('success', 'Вы успешно записались на курс');
     }
 
     public function myCourses()

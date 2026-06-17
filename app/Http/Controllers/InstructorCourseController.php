@@ -38,7 +38,7 @@ class InstructorCourseController extends Controller
         $validated['slug'] = Str::slug($validated['title']);
 
         Course::create($validated);
-        return redirect()->route('instructor.courses.index')->with('success', 'Курс успешно создан!');
+        return redirect()->route('instructor.courses.index')->with('success', 'Курс успешно создан');
     }
 
     public function edit(Course $course)
@@ -50,7 +50,6 @@ class InstructorCourseController extends Controller
     public function update(Request $request, Course $course)
     {
         $this->authorize('update', $course);
-        // Аналогично store, с обновлением данных
         $course->update($request->validate([
             'title' => 'required|string|max:255',
             'description' => 'required|string',
@@ -59,14 +58,14 @@ class InstructorCourseController extends Controller
             'cover_image' => 'nullable|image|max:2048',
         ]) + ($request->hasFile('cover_image') ? ['cover_image' => $request->file('cover_image')->store('covers', 'public')] : []));
         
-        return redirect()->route('instructor.courses.index')->with('success', 'Курс обновлен!');
+        return redirect()->route('instructor.courses.index')->with('success', 'Курс обновлен');
     }
 
     public function destroy(Course $course)
     {
         $this->authorize('delete', $course);
         $course->delete();
-        return redirect()->route('instructor.courses.index')->with('success', 'Курс удален!');
+        return redirect()->route('instructor.courses.index')->with('success', 'Курс удален');
     }
 
     public function students(Course $course)

@@ -28,13 +28,13 @@ class InstructorLessonController extends Controller
             'content_type' => 'required|in:text,video',
             'content' => 'required|string',
         ]));
-        return back()->with('success', 'Урок обновлен!');
+        return back()->with('success', 'Урок обновлен');
     }
 
     public function destroy(Course $course, Lesson $lesson)
     {
         $this->authorize('delete', $lesson);
         $lesson->delete();
-        return back()->with('success', 'Урок удален!');
+        return back()->with('success', 'Урок удален');
     }
 }

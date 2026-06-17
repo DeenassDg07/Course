@@ -18,6 +18,6 @@ class AdminUserController extends Controller
     {
         $validated = $request->validate(['role' => 'required|in:admin,instructor,student']);
         $user->update($validated);
-        return back()->with('success', 'Роль пользователя обновлена!');
+        return back()->with('success', 'Роль пользователя обновлена');
     }
 }

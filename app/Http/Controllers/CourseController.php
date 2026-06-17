@@ -18,7 +18,7 @@ class CourseController extends Controller
             $query->where('difficulty', $request->difficulty);
         }
 
-        $courses = $query->latest()->paginate(9);
+        $courses = $query->latest()->paginate(10);
         $categories = Category::all();
         
         return view('courses.index', compact('courses', 'categories'));
@@ -38,6 +38,6 @@ class CourseController extends Controller
         $this->authorize('enroll', $course);
         auth()->user()->enrolledCourses()->attach($course->id, ['progress' => 0, 'enrolled_at' => now()]);
         
-        return redirect()->route('my-courses.show', $course)->with('success', 'Вы успешно записались на курс!');
+        return redirect()->route('my-courses.show', $course)->with('success', 'Вы успешно записались на курс');
     }
 }
