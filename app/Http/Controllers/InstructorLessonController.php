@@ -16,7 +16,7 @@ class InstructorLessonController extends Controller
             'content' => 'required|string',
         ]);
         $course->lessons()->create($validated);
-        return back()->with('success', 'Урок добавлен!');
+        return back()->with('success', 'Урок добавлен');
     }
 
     public function update(Request $request, Course $course, Lesson $lesson)

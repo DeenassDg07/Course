@@ -74,7 +74,8 @@
               "RelativeToolTip": "composer.lock",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-17T13:33:33.825Z"
+              "WhenOpened": "2026-06-17T13:33:33.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +100,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\InstructorLessonController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:27:04.637Z"
+              "WhenOpened": "2026-06-17T13:27:04.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +113,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\InstructorDashboardController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:27:01.567Z"
+              "WhenOpened": "2026-06-17T13:27:01.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,7 +126,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\InstructorCourseController.php",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:26:31.949Z"
+              "WhenOpened": "2026-06-17T13:26:31.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +139,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\EnrollmentController.php",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:26:23.74Z"
+              "WhenOpened": "2026-06-17T13:26:23.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,7 +152,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\AdminUserController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:24:15.454Z"
+              "WhenOpened": "2026-06-17T13:24:15.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +165,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\DashboardController.php",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:26:18.698Z"
+              "WhenOpened": "2026-06-17T13:26:18.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -171,7 +178,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\CourseController.php",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:25:10.583Z"
+              "WhenOpened": "2026-06-17T13:25:10.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -183,7 +191,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:24:59.299Z"
+              "WhenOpened": "2026-06-17T13:24:59.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -195,7 +204,8 @@
               "RelativeToolTip": "app\\Http\\Controllers\\AdminController.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-06-17T13:23:53.731Z"
+              "WhenOpened": "2026-06-17T13:23:53.731Z",
+              "EditorCaption": ""
             }
           ]
         }
