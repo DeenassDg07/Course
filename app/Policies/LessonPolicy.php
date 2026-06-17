@@ -9,7 +9,7 @@ class LessonPolicy
 {
     public function view(User $user, Lesson $lesson)
     {
-        // Студент может просматривать урок только если записан на курс
+        // Студент может просматривать урок только если записан на курсd
         if ($user->isStudent()) {
             return $lesson->course->students->contains($user->id);
         }
