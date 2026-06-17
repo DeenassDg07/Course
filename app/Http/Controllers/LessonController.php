@@ -1,81 +1,43 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use App\Models\Course;
 use App\Models\Lesson;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Gate;
+use App\Models\LessonProgress;
 
 class LessonController extends Controller
 {
-    public function index(Course $course)
-    {
-        $lessons = $course->lessons()->orderBy('order')->get();
-        return view('lessons.index', compact('course', 'lessons'));
-    }
-
-    public function create(Course $course)
-    {
-        Gate::authorize('update', $course);
-        return view('lessons.create', compact('course'));
-    }
-
-    public function store(Request $request, Course $course)
-    {
-        Gate::authorize('update', $course);
-
-        $validated = $request->validate([
-            'title' => 'required|string|max:255',
-            'content' => 'nullable|string',
-            'video_url' => 'nullable|url',
-            'order' => 'required|integer|min:0',
-        ]);
-
-        $validated['course_id'] = $course->id;
-        Lesson::create($validated);
-
-        return redirect()->route('courses.lessons.index', $course)
-                        ->with('success', 'Урок добавлен!');
-    }
-
     public function show(Course $course, Lesson $lesson)
     {
-        Gate::authorize('view', $lesson);
-        $lesson->load('quiz');
+        $this->authorize('view', $lesson);
+        $isCompleted = auth()->user()->lessonProgress()
+            ->where('lesson_id', $lesson->id)
+            ->where('is_completed', true)
+            ->exists();
+            
+        return view('lessons.show', compact('course', 'lesson', 'isCompleted'));
+    }
+
+    public function complete(Course $course, Lesson $lesson)
+    {
+        $this->authorize('view', $lesson);
         
-        return view('lessons.show', compact('course', 'lesson'));
-    }
+        $progress = auth()->user()->lessonProgress()->updateOrCreate(
+            ['lesson_id' => $lesson->id],
+            ['is_completed' => true, 'completed_at' => now()]
+        );
 
-    public function edit(Course $course, Lesson $lesson)
-    {
-        Gate::authorize('update', $course);
-        return view('lessons.edit', compact('course', 'lesson'));
-    }
+        // Обновляем общий прогресс курса
+        $totalLessons = $course->lessons()->count();
+        $completedLessons = auth()->user()->lessonProgress()
+            ->whereIn('lesson_id', $course->lessons()->pluck('id'))
+            ->where('is_completed', true)
+            ->count();
+            
+        $courseProgress = $totalLessons > 0 ? round(($completedLessons / $totalLessons) * 100) : 0;
+        
+        auth()->user()->enrolledCourses()->updateExistingPivot($course->id, ['progress' => $courseProgress]);
 
-    public function update(Request $request, Course $course, Lesson $lesson)
-    {
-        Gate::authorize('update', $course);
-
-        $validated = $request->validate([
-            'title' => 'required|string|max:255',
-            'content' => 'nullable|string',
-            'video_url' => 'nullable|url',
-            'order' => 'required|integer|min:0',
-        ]);
-
-        $lesson->update($validated);
-
-        return redirect()->route('courses.lessons.show', [$course, $lesson])
-                        ->with('success', 'Урок обновлен!');
-    }
-
-    public function destroy(Course $course, Lesson $lesson)
-    {
-        Gate::authorize('update', $course);
-        $lesson->delete();
-
-        return redirect()->route('courses.lessons.index', $course)
-                        ->with('success', 'Урок удален!');
+        return back()->with('success', 'Урок отмечен как пройденный!');
     }
 }

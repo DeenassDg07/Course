@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public"
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Auth",
+    "\\app\\Providers"
   ],
-  "SelectedNode": "\\public\\.htaccess",
+  "SelectedNode": "\\app\\Http\\Controllers\\AdminUserController.php",
   "PreviewInSolutionExplorer": false
 }

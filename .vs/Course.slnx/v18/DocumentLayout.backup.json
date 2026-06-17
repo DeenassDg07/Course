@@ -1,0 +1,942 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astra\\source\\repos\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\.vs\\ProjectSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProjectSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\public\\.htaccess||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\.htaccess||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\public\\favicon.ico||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\favicon.ico||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Middleware\\AdminMiddleware.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Middleware\\AdminMiddleware.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\AdminController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\AdminController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Auth\\RegisterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Auth\\RegisterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Auth\\LoginController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Auth\\LoginController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\routes\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\auth\\register.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\auth\\register.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\auth\\login.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\auth\\login.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\admin\\edit-user.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\edit-user.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\admin\\users.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\admin\\users.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\student.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\dashboard\\student.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\teacher.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\dashboard\\teacher.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\admin.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\dashboard\\admin.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\enrollments\\my-courses.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\enrollments\\my-courses.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\result.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\quizzes\\result.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\take.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\quizzes\\take.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\quizzes\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\show.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\lessons\\show.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\lessons\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\lessons\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\index.blade.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\lessons\\index.blade.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\courses\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\courses\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\show.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\courses\\show.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\courses\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\layouts\\app.blade.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\app.blade.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\seeders\\CourseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\CourseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Policies\\LessonPolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Policies\\LessonPolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Policies\\CoursePolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Policies\\CoursePolicy.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\DashboardController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\DashboardController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\QuizController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\QuizController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\EnrollmentController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\EnrollmentController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\LessonController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\LessonController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\CourseController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\CourseController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000007_create_quiz_results_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000007_create_quiz_results_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000006_create_questions_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000006_create_questions_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000005_create_quizzes_table.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000005_create_quizzes_table.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000004_create_enrollments_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000004_create_enrollments_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000003_create_cache_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000003_create_cache_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000002_create_courses_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000002_create_courses_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000001_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000001_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\QuizResult.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\QuizResult.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Question.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Question.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Quiz.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Quiz.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Enrollment.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Enrollment.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Lesson.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Lesson.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Course.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Course.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astra\\source\\repos\\Course\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectSettings.json",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\.vs\\ProjectSettings.json",
+              "RelativeDocumentMoniker": ".vs\\ProjectSettings.json",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\.vs\\ProjectSettings.json",
+              "RelativeToolTip": ".vs\\ProjectSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T15:06:07.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "favicon.ico",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\public\\favicon.ico",
+              "RelativeDocumentMoniker": "public\\favicon.ico",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\public\\favicon.ico",
+              "RelativeToolTip": "public\\favicon.ico",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-06-16T15:04:05.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".htaccess",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\public\\.htaccess",
+              "RelativeDocumentMoniker": "public\\.htaccess",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\public\\.htaccess",
+              "RelativeToolTip": "public\\.htaccess",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-16T15:04:05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controller.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Controller.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Controller.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:58:45.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Auth\\RegisterController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:57:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Auth\\LoginController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Auth\\LoginController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\Auth\\LoginController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Auth\\LoginController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:57:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\AdminController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\AdminController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\AdminController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\AdminController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:37:50.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMiddleware.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Middleware\\AdminMiddleware.php",
+              "RelativeDocumentMoniker": "app\\Http\\Middleware\\AdminMiddleware.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Middleware\\AdminMiddleware.php",
+              "RelativeToolTip": "app\\Http\\Middleware\\AdminMiddleware.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:40:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "auth.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\routes\\auth.php",
+              "RelativeDocumentMoniker": "routes\\auth.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\routes\\auth.php",
+              "RelativeToolTip": "routes\\auth.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:56:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "register.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\auth\\register.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\auth\\register.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\auth\\register.blade.php",
+              "RelativeToolTip": "resources\\views\\auth\\register.blade.php",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:55:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\auth\\login.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\auth\\login.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\auth\\login.blade.php",
+              "RelativeToolTip": "resources\\views\\auth\\login.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:55:30.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "edit-user.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\admin\\edit-user.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\edit-user.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\admin\\edit-user.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\edit-user.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:54:37.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "users.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\admin\\users.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\admin\\users.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\admin\\users.blade.php",
+              "RelativeToolTip": "resources\\views\\admin\\users.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:54:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "student.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\student.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\dashboard\\student.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\student.blade.php",
+              "RelativeToolTip": "resources\\views\\dashboard\\student.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:53:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "teacher.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\teacher.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\dashboard\\teacher.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\teacher.blade.php",
+              "RelativeToolTip": "resources\\views\\dashboard\\teacher.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:53:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\admin.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\dashboard\\admin.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\dashboard\\admin.blade.php",
+              "RelativeToolTip": "resources\\views\\dashboard\\admin.blade.php",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:52:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "my-courses.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\enrollments\\my-courses.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\enrollments\\my-courses.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\enrollments\\my-courses.blade.php",
+              "RelativeToolTip": "resources\\views\\enrollments\\my-courses.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:52:10.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "result.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\result.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\quizzes\\result.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\result.blade.php",
+              "RelativeToolTip": "resources\\views\\quizzes\\result.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:51:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "take.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\take.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\quizzes\\take.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\take.blade.php",
+              "RelativeToolTip": "resources\\views\\quizzes\\take.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:50:56.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\quizzes\\create.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\quizzes\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\quizzes\\create.blade.php",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:50:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "show.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\lessons\\show.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\show.blade.php",
+              "RelativeToolTip": "resources\\views\\lessons\\show.blade.php",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:50:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\lessons\\edit.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\lessons\\edit.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:49:46.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\lessons\\create.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\lessons\\create.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:49:31.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\lessons\\index.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\lessons\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\lessons\\index.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:49:08.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\courses\\edit.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\courses\\edit.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:48:37.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\courses\\create.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\courses\\create.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:48:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "show.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\courses\\show.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\show.blade.php",
+              "RelativeToolTip": "resources\\views\\courses\\show.blade.php",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:48:09.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\courses\\index.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\courses\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\courses\\index.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:47:51.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.blade.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\layouts\\app.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\app.blade.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\resources\\views\\layouts\\app.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\app.blade.php",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:47:09.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseSeeder.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\seeders\\CourseSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\CourseSeeder.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\seeders\\CourseSeeder.php",
+              "RelativeToolTip": "database\\seeders\\CourseSeeder.php",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:46:01.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppServiceProvider.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Providers\\AppServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\AppServiceProvider.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Providers\\AppServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\AppServiceProvider.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:42:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:40:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LessonPolicy.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Policies\\LessonPolicy.php",
+              "RelativeDocumentMoniker": "app\\Policies\\LessonPolicy.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Policies\\LessonPolicy.php",
+              "RelativeToolTip": "app\\Policies\\LessonPolicy.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:39:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CoursePolicy.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Policies\\CoursePolicy.php",
+              "RelativeDocumentMoniker": "app\\Policies\\CoursePolicy.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Policies\\CoursePolicy.php",
+              "RelativeToolTip": "app\\Policies\\CoursePolicy.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:38:54.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DashboardController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\DashboardController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\DashboardController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\DashboardController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\DashboardController.php",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:37:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuizController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\QuizController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\QuizController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\QuizController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\QuizController.php",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:37:20.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnrollmentController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\EnrollmentController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\EnrollmentController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\EnrollmentController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\EnrollmentController.php",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:36:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LessonController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\LessonController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\LessonController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\LessonController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\LessonController.php",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:35:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CourseController.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\CourseController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\CourseController.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Http\\Controllers\\CourseController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\CourseController.php",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:34:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "0001_01_01_000007_create_quiz_results_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000007_create_quiz_results_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000007_create_quiz_results_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000007_create_quiz_results_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000007_create_quiz_results_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:33:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "0001_01_01_000006_create_questions_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000006_create_questions_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000006_create_questions_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000006_create_questions_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000006_create_questions_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:33:09.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "0001_01_01_000005_create_quizzes_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000005_create_quizzes_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000005_create_quizzes_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000005_create_quizzes_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000005_create_quizzes_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:32:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "0001_01_01_000004_create_enrollments_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000004_create_enrollments_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000004_create_enrollments_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000004_create_enrollments_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000004_create_enrollments_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:31:50.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "0001_01_01_000002_create_courses_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000002_create_courses_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000002_create_courses_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000002_create_courses_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000002_create_courses_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:28:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "QuizResult.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\QuizResult.php",
+              "RelativeDocumentMoniker": "app\\Models\\QuizResult.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\QuizResult.php",
+              "RelativeToolTip": "app\\Models\\QuizResult.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:28:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Question.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Question.php",
+              "RelativeDocumentMoniker": "app\\Models\\Question.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Question.php",
+              "RelativeToolTip": "app\\Models\\Question.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:27:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "0001_01_01_000001_create_users_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000001_create_users_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000001_create_users_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000001_create_users_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000001_create_users_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:21:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "0001_01_01_000003_create_cache_table.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000003_create_cache_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000003_create_cache_table.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\database\\migrations\\0001_01_01_000003_create_cache_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000003_create_cache_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:21:21.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Quiz.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Quiz.php",
+              "RelativeDocumentMoniker": "app\\Models\\Quiz.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Quiz.php",
+              "RelativeToolTip": "app\\Models\\Quiz.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:27:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Enrollment.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Enrollment.php",
+              "RelativeDocumentMoniker": "app\\Models\\Enrollment.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Enrollment.php",
+              "RelativeToolTip": "app\\Models\\Enrollment.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:26:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Lesson.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Lesson.php",
+              "RelativeDocumentMoniker": "app\\Models\\Lesson.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Lesson.php",
+              "RelativeToolTip": "app\\Models\\Lesson.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:26:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Course.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Course.php",
+              "RelativeDocumentMoniker": "app\\Models\\Course.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\Course.php",
+              "RelativeToolTip": "app\\Models\\Course.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:25:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-06-16T14:25:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\astra\\source\\repos\\Course\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "C:\\Users\\astra\\source\\repos\\Course\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-16T13:45:29.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

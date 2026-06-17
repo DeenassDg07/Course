@@ -1,45 +1,20 @@
 <?php
 
 namespace App\Models;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Str;
 
-class Course extends Model
-{
-    use HasFactory;
+class Course extends Model {
+    protected $fillable = ['title', 'slug', 'description', 'cover_image', 'difficulty', 'instructor_id', 'category_id', 'is_published'];
+    protected $casts = ['is_published' => 'boolean'];
 
-    protected $fillable = [
-        'title',
-        'description',
-        'cover_image',
-        'teacher_id',
-    ];
-
-    public function teacher()
-    {
-        return $this->belongsTo(User::class, 'teacher_id');
+    protected static function boot() {
+        parent::boot();
+        static::creating(function ($course) { $course->slug = Str::slug($course->title); });
     }
 
-    public function lessons()
-    {
-        return $this->hasMany(Lesson::class)->orderBy('order');
-    }
-
-    public function students()
-    {
-        return $this->belongsToMany(User::class, 'enrollments', 'course_id', 'student_id')
-                    ->withPivot('progress', 'completed_at')
-                    ->withTimestamps();
-    }
-
-    public function enrollments()
-    {
-        return $this->hasMany(Enrollment::class);
-    }
-
-    public function quizzes()
-    {
-        return $this->hasManyThrough(Quiz::class, Lesson::class);
-    }
+    public function instructor() { return $this->belongsTo(User::class, 'instructor_id'); }
+    public function category() { return $this->belongsTo(Category::class); }
+    public function lessons() { return $this->hasMany(Lesson::class)->orderBy('position'); }
+    public function students() { return $this->belongsToMany(User::class, 'course_user')->withPivot('progress', 'enrolled_at', 'completed_at')->withTimestamps(); }
 }
